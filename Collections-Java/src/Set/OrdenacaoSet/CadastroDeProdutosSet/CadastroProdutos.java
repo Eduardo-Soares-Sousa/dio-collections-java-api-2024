@@ -1,4 +1,4 @@
-package Set.OperacoesBasicasSet.OrdenacaoSet.CadastroDeProdutosSet;
+package Set.OrdenacaoSet.CadastroDeProdutosSet;
 
 import java.util.HashSet;
 import java.util.Set;

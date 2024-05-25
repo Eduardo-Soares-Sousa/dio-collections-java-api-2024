@@ -1,4 +1,4 @@
-package Set.OperacoesBasicasSet.OrdenacaoSet.ListaDeAlunosSet;
+package Set.OrdenacaoSet.ListaDeAlunosSet;
 
 public class Main {
     public static void main(String[] args) {

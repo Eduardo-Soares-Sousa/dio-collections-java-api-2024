@@ -1,6 +1,4 @@
-package Set.OperacoesBasicasSet.OrdenacaoSet.CadastroDeProdutosSet;
-
-import Set.OperacoesBasicasSet.OrdenacaoSet.CadastroDeProdutosSet.CadastroProdutos;
+package Set.OrdenacaoSet.CadastroDeProdutosSet;
 
 public class Main {
     public static void main(String[] args) {

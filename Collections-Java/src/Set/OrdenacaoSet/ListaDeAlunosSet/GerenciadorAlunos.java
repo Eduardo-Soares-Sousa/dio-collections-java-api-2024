@@ -1,4 +1,4 @@
-package Set.OperacoesBasicasSet.OrdenacaoSet.ListaDeAlunosSet;
+package Set.OrdenacaoSet.ListaDeAlunosSet;
 
 import java.util.HashSet;
 import java.util.Set;

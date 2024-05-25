@@ -1,4 +1,4 @@
-package Set.OperacoesBasicasSet.OrdenacaoSet.ListaDeAlunosSet;
+package Set.OrdenacaoSet.ListaDeAlunosSet;
 
 import java.util.Objects;
 
