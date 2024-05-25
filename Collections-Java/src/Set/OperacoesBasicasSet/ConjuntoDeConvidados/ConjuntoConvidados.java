@@ -22,7 +22,7 @@ public class ConjuntoConvidados {
                 break;
             }
         }
-        if (convidadoParaRemover != null) {
+        if(convidadoParaRemover != null){
             convidadoSet.remove(convidadoParaRemover);
         }
 
