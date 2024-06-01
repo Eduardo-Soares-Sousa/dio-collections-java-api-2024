@@ -1,0 +1,7 @@
+Exercício 2: Playlist de Músicas
+Crie uma classe chamada "Playlist" que representa uma lista de músicas. Cada música é representada por uma classe chamada "Musica" que possui atributos como nome, artista e duração (em segundos). Implemente os seguintes métodos:
+
+- adicionarMusica(String nome, String artista, int duracao): Adiciona uma música à playlist com o nome, artista e duração especificados.
+- removerMusica(String nome): Remove uma música da playlist com base no seu nome.
+- calcularDuracaoTotal(): Calcula e retorna a duração total da playlist, somando a duração de cada música.
+- exibirMusicas(): Exibe todas as músicas presentes na playlist, mostrando seus nomes, artistas e durações.
