@@ -1,0 +1,7 @@
+Exercício 1: Biblioteca de Livros
+Crie uma classe chamada "Biblioteca" que possui uma lista de livros como atributo. Cada livro é representado por uma classe chamada "Livro" que possui atributos de título e autor. Implemente os seguintes métodos:
+
+- adicionarLivro(String titulo, String autor): Adiciona um novo livro à lista com o título e autor fornecidos.
+- removerLivro(String titulo): Remove um livro da lista com base em seu título.
+- obterNumeroTotalLivros(): Retorna o número total de livros na lista.
+- obterTitulosLivros(): Retorna uma lista contendo os títulos de todos os livros na lista.
