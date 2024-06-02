@@ -1,0 +1,7 @@
+Exercício 4: Registro de Alunos
+Crie uma classe chamada "RegistroAlunos" que representa um registro de alunos em uma escola. Cada aluno é representado por uma classe chamada "Aluno" que possui atributos como nome e idade. Implemente os seguintes métodos:
+
+- adicionarAluno(String nome, int idade): Adiciona um aluno ao registro com o nome e idade especificados.
+- removerAluno(String nome): Remove um aluno do registro com base no seu nome.
+- obterNumeroTotalAlunos(): Retorna o número total de alunos no registro.
+- obterNomesAlunos(): Retorna uma lista contendo os nomes de todos os alunos no registro.
