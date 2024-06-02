@@ -1,0 +1,7 @@
+Exercício 5: Agenda de Contatos
+Crie uma classe chamada "Agenda" que representa uma lista de contatos. Cada contato é representado por uma classe chamada "Contato" que possui atributos como nome, telefone e email. Implemente os seguintes métodos:
+
+- adicionarContato(String nome, String telefone, String email): Adiciona um contato à agenda com o nome, telefone e email especificados.
+- removerContato(String nome): Remove um contato da agenda com base no seu nome.
+- atualizarEmailContato(String nome, String novoEmail): Atualiza o email de um contato específico na agenda.
+- exibirContatos(): Exibe todos os contatos presentes na agenda, mostrando seus nomes, telefones e emails.
