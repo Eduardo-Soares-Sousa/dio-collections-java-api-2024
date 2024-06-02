@@ -1,0 +1,7 @@
+Exercício 3: Inventário de Produtos
+Crie uma classe chamada "Inventario" que representa um inventário de produtos em uma loja. Cada produto é representado por uma classe chamada "Produto" que possui atributos como nome, preço e quantidade em estoque. Implemente os seguintes métodos:
+
+- adicionarProduto(String nome, double preco, int quantidade): Adiciona um produto ao inventário com o nome, preço e quantidade especificados.
+- removerProduto(String nome): Remove um produto do inventário com base no seu nome.
+- atualizarQuantidadeProduto(String nome, int quantidade): Atualiza a quantidade de um produto específico no inventário.
+- calcularValorTotalEstoque(): Calcula e retorna o valor total do estoque, levando em consideração o preço e a quantidade de cada produto.
